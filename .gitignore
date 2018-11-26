@@ -2,4 +2,3 @@
 /.idea/
 .gitignore
 kafkaplay.iml
-pom.xml
